@@ -1,0 +1,27 @@
+.hash1 {
+color: white;
+background-color: #311313;
+text-align: center;
+margin: 0 auto;
+width: 636px;
+height: 116px;
+padding-top: 50px;
+}
+.red {
+border: 10px solid rgba(255, 6, 6, 1) ;
+background-color: rgba(0, 0, 0, 1);
+width: 1000px;
+height: 638px;
+margin: 0 auto;
+}
+.first {
+background-color: rgba(31, 232, 183, 1);
+width: 896px;
+height: 150px;
+margin-left: 40px;
+margin: 0 auto;
+font-size: 150%;
+padding-top: 20px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
